@@ -1,1 +1,0 @@
-# Plant-leaf-Disease-Detection-System
